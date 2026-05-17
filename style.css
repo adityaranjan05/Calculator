@@ -53,7 +53,7 @@ td {
     background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 50%, rgba(0, 0, 0, 0.1) 50%);
     box-shadow: 0 0 5px rgba(0,0,0,0.3), 
                 0 0 10px rgba(131, 130, 130, 0.2);
-    height: 55px;
+    height: 60px;
     width: 60px;
     font-size: 1.2rem;
     transition: 0.2s all ease-in;
